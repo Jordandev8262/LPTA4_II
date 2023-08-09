@@ -1,0 +1,7 @@
+﻿Nom,Quantité,Composant
+"U1",1," Arduino Uno R3"
+"GAS1",1," Capteur de gaz"
+"RResistor",1,"220 Ω Résistance"
+"D1",1,"Rouge LED"
+"M1",1," Moteur à courant continu"
+"PIEZOBuzzer",1," Élément piézoélectrique"
